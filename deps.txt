@@ -1,0 +1,7 @@
+apt-get install graphviz
+pip install pydot==1.1.0
+pip install keras --upgrade --no-deps
+pip install pandas --upgrade 
+pip install numexpr --upgrade
+pip install nibabel
+pip install --upgrade tensorflow-gpu
